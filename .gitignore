@@ -1,0 +1,43 @@
+# OS-specific files
+.DS_Store         # macOS
+Thumbs.db         # Windows
+
+# IDEs and editors
+.vscode/          # Visual Studio Code
+.idea/             # JetBrains IDEs
+*.suo             # Visual Studio
+*.user            # Visual Studio
+*.ncb             # Visual Studio
+*.swp             # Vim swap files
+*.swo             # Vim swap files
+*.sublime-project # Sublime Text
+*.sublime-workspace # Sublime Text
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+package-lock.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+
+# Ruby
+*.gem
+*.rbc
+.bundle/
+vendor/
+coverage/
+spec/reports/
+*.log
